@@ -1,0 +1,201 @@
+﻿Diagnose log at 2024-12-31T08:03:19Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.5.1+90d5f897f164a8fe07d2aa3bf7db439b0b4e03ea
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26100)
+Reading environment variables... OK
+ Variables:
+HOMEPATH=\Users\91970
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMPUTERNAME=DESKTOP-EQF34BH
+GIT_TRACE2_PARENT_SID=5f78987e-c4a0-4593-a4ed-a07ead9abbc4
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+OneDrive=C:\Users\91970\OneDrive
+SESSIONNAME=Console
+LANG=en_US.UTF-8
+TMP=C:\Users\91970\AppData\Local\Temp
+PROCESSOR_REVISION=9e0a
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\91970\AppData\Local\Programs\cursor\resources\app\extensions\git\dist\askpass-main.js
+SystemDrive=C:
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+TEMP=C:\Users\91970\AppData\Local\Temp
+LOCALAPPDATA=C:\Users\91970\AppData\Local
+MSYSTEM=MINGW64
+TERM=xterm-256color
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+ProgramW6432=C:\Program Files
+USERDOMAIN=DESKTOP-EQF34BH
+ProgramFiles(x86)=C:\Program Files (x86)
+EFC_13984=1
+TERM_PROGRAM=vscode
+PROCESSOR_LEVEL=6
+NUMBER_OF_PROCESSORS=12
+TMPDIR=C:\Users\91970\AppData\Local\Temp
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+TERM_PROGRAM_VERSION=0.44.9
+GIT_ASKPASS=c:\Users\91970\AppData\Local\Programs\cursor\resources\app\extensions\git\dist\askpass.sh
+PSModulePath=C:\Users\91970\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-2a13d30946-sock
+FPS_BROWSER_USER_PROFILE_STRING=Default
+CommonProgramFiles=C:\Program Files (x86)\Common Files
+VSCODE_INJECTION=1
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_32100_COUDLBNYQXPLHMFW
+asl.log=Destination=file
+PLINK_PROTOCOL=ssh
+ProgramData=C:\ProgramData
+MSYS=disable_pcon
+ProgramFiles=C:\Program Files (x86)
+VSCODE_GIT_ASKPASS_NODE=C:\Users\91970\AppData\Local\Programs\cursor\Cursor.exe
+SystemRoot=C:\WINDOWS
+NVM_SYMLINK=C:\Program Files\nodejs
+NVM_HOME=C:\Users\91970\AppData\Roaming\nvm
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+HOME=C:\Users\91970
+CommonProgramW6432=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+LOGONSERVER=\\DESKTOP-EQF34BH
+USERPROFILE=C:\Users\91970
+COLORTERM=truecolor
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-EQF34BH
+APPDATA=C:\Users\91970\AppData\Roaming
+HOMEDRIVE=C:
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+USERNAME=Preethi
+PROCESSOR_ARCHITEW6432=AMD64
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+PROCESSOR_ARCHITECTURE=x86
+OS=Windows_NT
+ComSpec=C:\WINDOWS\system32\cmd.exe
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\91970\bin;c:\Users\91970\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Python39\Scripts\;C:\Python39\;C:\Program Files\Java\jdk-14.0.1\bin;C:\Users\91970\Downloads\mysql-8.0.21-winx64\mysql-8.0.21-winx64\bin;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WIND;C:\Users\91970\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\91970\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\91970\AppData\Roaming\Python\Python37\Scripts;C:\Users\91970\AppData\Local\Programs\Python\Python312\;C:\Users\91970\.dotnet\tools;C:\Users\91970\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\91970\AppData\Local\GitHubDesktop\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Users\91970\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\91970\AppData\Local\Microsoft\WindowsApps;
+windir=C:\WINDOWS
+OneDriveConsumer=C:\Users\91970\OneDrive
+ALLUSERSPROFILE=C:\ProgramData
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\91970\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\91970\AppData\Local\Temp\805e4f0598a5d3b6a902eb37'... OK
+Reading from temporary file 'C:\Users\91970\AppData\Local\Temp\805e4f0598a5d3b6a902eb37'... OK
+Deleting temporary file 'C:\Users\91970\AppData\Local\Temp\805e4f0598a5d3b6a902eb37'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\91970
+UserDataDirectoryPath: C:\Users\91970\.gcm
+GetCurrentDirectory(): C:\Users\91970\Desktop\whisper-linker-working\whisper-linker-working
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:62582/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.46.1.windows.1'
+Locating current repository...Git repository at 'C:/Users/91970/Desktop/whisper-linker-working/whisper-linker-working/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=openssl
+file:C:/Program Files/Git/etc/gitconfig	http.sslcainfo=C:/Program Files/Git/mingw64/etc/ssl/certs/ca-bundle.crt
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/91970/.gitconfig	user.name=preethi-thota
+file:C:/Users/91970/.gitconfig	user.email=preethithota28@gmail.com
+file:C:/Users/91970/.gitconfig	safe.directory=C:/Users/91970
+file:C:/Users/91970/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/91970/.gitconfig	filter.lfs.required=true
+file:C:/Users/91970/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/91970/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/91970/.gitconfig	credential.helper=manager-core
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.origin.url=https://github.com/examiner234/anony-bolt-version
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\91970\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\91970\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
